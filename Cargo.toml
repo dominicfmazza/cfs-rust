@@ -14,5 +14,5 @@ name="cfs_sys"
 crate-type=["rlib"]
 
 [build-dependencies]
-bindgen="0.26.3"
+bindgen="0.72.1"
 
