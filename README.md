@@ -1,6 +1,6 @@
 ## CFS Rust Bindings
 
-You need to define 2 environment variables:
+You need to define one environment variable:
 
 ```sh
 CFS_MISSION="/path/to/cFS"
